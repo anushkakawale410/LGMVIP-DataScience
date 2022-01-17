@@ -7,6 +7,13 @@ Virtual Internship
 
 #### This particular ML project is usually referred to as the “Hello World” of Machine Learning. The iris flowers dataset contains numeric attributes, and it is perfect for beginners to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without requiring special transformations or scaling capabilities. 
 
+
+# Beginner Level Task 02
+
+## Stock Market Prediction And Forecasting Using Stacked LSTM
+
+#### Datasetlinks: : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+
 # Beginner Level Task 04
 
 ## Image to Pencil Sketch with Python
@@ -24,3 +31,10 @@ Virtual Internship
 ## Develop A Neural Network That Can Read Handwriting
 
 #### Begin your neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN. It has a very user-friendly interface that’s ideal for beginners. Dataset can be seen on MNIST or can find here. 
+
+# Advance Level Task 02
+
+## Next Word Prediction:
+
+#### Using Tensorflow and Keras library train a RNN, to predict the next word.
+#### Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
